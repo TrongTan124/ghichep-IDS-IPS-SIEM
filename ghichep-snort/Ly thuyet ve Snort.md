@@ -69,7 +69,7 @@ Các file log là các file dữ liệu có thể ghi dưới nhiều định d�
 
 # Bộ luật của Snort
 
-![rule_snort]../Images/rule_snort.png)
+![rule_snort](../Images/rule_snort.png)
 
 Module detection engine sử dụng các bộ luật để nhận dạng dữ liệu. ví dụ một luật
 ```sh
